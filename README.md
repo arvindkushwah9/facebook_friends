@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'facebook_friends'
+gem 'facebook_friends',"~> 1.0.3"
 ```
 
 And then execute:
