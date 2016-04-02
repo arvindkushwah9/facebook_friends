@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{This gem will return facebook friends count}
   spec.description   = %q{This gem will return facebook friends count}
-  spec.homepage      = "http://bitterntech.co.in"
+  spec.homepage      = "https://github.com/arvindkushwah9/facebook_friends"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or

@@ -22,7 +22,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+require "facebook_friends"
+
+#List all friends
+
+FacebookFriends::Arvind.count(oauth_token)
+
+
 
 ## Development
 
