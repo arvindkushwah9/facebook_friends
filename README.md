@@ -24,9 +24,17 @@ Or install it yourself as:
 
 require "facebook_friends"
 
-#List all friends
+##List all friends
 
-FacebookFriends::Arvind.count(oauth_token)
+	FacebookFriends::Arvind.friends(oauth_token)
+
+##List user details
+
+	FacebookFriends::Arvind.user(oauth_token)
+
+##List user posts
+
+	FacebookFriends::Arvind.feed(oauth_token)
 
 
 
